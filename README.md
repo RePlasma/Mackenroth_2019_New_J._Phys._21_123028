@@ -5,7 +5,7 @@ URL: https://iopscience.iop.org/article/10.1088/1367-2630/ab5c4d/meta
 
 Authors of paper: Felix Mackenroth, Amol R Holkundkar and Hans-Peter Schlenvoigt
 
-Author of notebook with (partially) reproduced results: Óscar Amaro
+Author of notebook with (partially) reproduced results: [Óscar Amaro](https://github.com/OsAmaro)
 
 Abstract:
 
